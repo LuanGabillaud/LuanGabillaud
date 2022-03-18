@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/-->
 </div>
   <div>
-    ### Tenho experiência nas seguintes linguagens e tecnologias. 
+    <a><strong>Tenho experiência nas seguintes linguagens e tecnologias.</strong></a> 
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
