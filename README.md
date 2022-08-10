@@ -1,11 +1,11 @@
-## Olá! Eu sou o Luan, um desenvolvedor iniciante buscando espaço no mercado 💻
+## Olá! Eu sou o Luan Gabillaud, um desenvolvedor iniciante intusiasta de tecnologia e que está constantemente em busca de conhecimento 💻
 <div align="center">
   <a href="https://github.com/LuanGabillaud">
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/-->
 </div>
   <div>
-    <a><strong>Tenho experiência nas seguintes linguagens e tecnologias.</strong></a> 
+    <a><strong>Principais linguagens e tecnologias que tenho bastante afinidade.</strong></a> 
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
