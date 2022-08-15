@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luan Gabillaud, um desenvolvedor iniciante intusiasta de tecnologia e que está constantemente em busca de conhecimento 💻
+## Olá! Eu sou o Luan Gabillaud, um desenvolvedor iniciante entusiasta de tecnologia e que está constantemente em busca de conhecimento 💻
 <div align="center">
   <a href="https://github.com/LuanGabillaud">
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
