@@ -35,6 +35,7 @@
       <img align="center" alt="Luan-PhotoShop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
       <img align="center" alt="Luan-Gimp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
       <img align="center" alt="Luan-Blender" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+      <img align="center" alt="Luan-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
   
   ##
