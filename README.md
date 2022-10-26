@@ -24,7 +24,7 @@
   <br>
   
   <div>
-    <a><strong>Linguagens e ferramentas que estou aprendendo/desenvolvendo.</strong><a>
+    <a><strong>Linguagens e ferramentas que estou aprendendo/aperfeiçoando.</strong><a>
   </div>
       <br>
       <img align="center" alt="Luan-SVN" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
