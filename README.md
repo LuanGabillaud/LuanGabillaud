@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luan Gabillaud, um desenvolvedor que ama desafios e que está sempre estudando para evoluir no mercado, amo desafios de lógica, ♟xadrez é um dos meus hobbies favoritos e minha linguagem de bolso é o PHP 
+## Olá! Eu sou o Luan Gabillaud, um desenvolvedor que ama desafios e que está sempre estudando para evoluir no mercado, amo desafios de lógica, ♟xadrez é um dos meus hobbies favoritos e atualmente estou investindo mais na carreira de dev front com Vue.js 
 
   <div>
     <a><strong>Linguagens e ferramentas que domino.</strong></a> 
