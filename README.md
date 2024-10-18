@@ -7,7 +7,8 @@
   <img align="center" alt="Luan-SingleSpa" height="48" width="48" src="https://single-spa.js.org/img/single-spa-mark-magenta.svg" />
   <img align="center" alt="Luan-Vue" width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo"/>
   <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/ionic.png" alt="ionic"/>
-  <img align="center" alt="Luan-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png" alt="Luan-Angular"/>
+  <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="Luan-TypeScript"/>
   <img  align="center" alt="Luan-Js" width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img align="center" alt="Luan-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luan-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
